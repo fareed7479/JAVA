@@ -7,7 +7,7 @@ public class Main {
     
     static
     {
-        System.out.println("Enter postive integer to check prime number or not: ");
+        System.out.println("Enter postive integer to check prime number or not IN CMD: ");
     }
     public static void main(String[] args) 
     {
