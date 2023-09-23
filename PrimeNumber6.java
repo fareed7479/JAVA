@@ -13,6 +13,7 @@ public class Main {
     low=sc.nextInt();
     System.out.println("Enter the higher boundary: ");
     high=sc.nextInt();
+    System.out.println("The prime numbers between "+low+" and "+high+" is : ");
     for(int i=low;i<=high;i++)
     {
         boolean flag = false;
