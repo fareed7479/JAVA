@@ -1,6 +1,7 @@
 //java program check whether the given number is prime number
 //23-09-2023
 //PrimeNumber1.java
+//SOURCE - JAVAPROGRAMINGQUIZ
 public class Main {
 
   public static void main(String[] args) {
