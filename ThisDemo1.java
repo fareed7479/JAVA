@@ -28,8 +28,8 @@ public class ThisDemo1{
         s2.display();
     }
 }
-//OUTPUT:-
-//Student details are: 
-//0 null 0.0
-//Student details are: 
-//0 null 0.0
+/*OUTPUT:-
+Student details are: 
+0 null 0.0
+Student details are: 
+0 null 0.0*/
